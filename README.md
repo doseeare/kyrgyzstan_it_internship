@@ -1,0 +1,1 @@
+# kyrgyzstan_it_internship
