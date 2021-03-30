@@ -14,11 +14,11 @@ We do not have many internships here, nevertheless, students and graduates face 
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | Neobis      	   | Neobis Labs         | Bishkek          |   no  | All                                                  | Every-time | [click](https://neobis.kg/clubs)                             |
 | Growave          | Growave             | Bishkek           |   no  | PHP, Front-End                                        | ?         | [click](https://www.kg.growave.io/probation)                |
-| Beeline          | Beeline  KG         | ?                |   ?   | Java, Python              | ? | [click](https://beeline.kg/ru/stajirovka#bottom)                  |
-| Deveem           | Deveem Labs         | ?                |   ?   | Android, IOS, UX-UI            | ? | [click](https://www.instagram.com/deveem.io/)                  |
-| Syntlex          | Syntlex              | ?                |   ?   | Mobile dev, Front-End, Backend-End, QA TEST,             | ? | [click](http://www.syntlex.info/vacancy.php)                  |
-| TimelySoft       | TimelySoft              | yes               |   ?   | Android, IOS, C#, Backend-End, Front-End           | Every-time | [click](http://timelysoft.net/ru/internship/)                  |
-| Mad Devs         | Mad Devs              | ?                |   ?   | Android, IOS, Front-End, Backend-End          | ? | [click](https://maddevs.io/careers/)                  |
+| Beeline          | Beeline  KG         | Bishkek                |   ?   | Java, Python              | ? | [click](https://beeline.kg/ru/stajirovka#bottom)                  |
+| Deveem           | Deveem Labs         | Bishkek                |   ?   | Android, IOS, UX-UI            | ? | [click](https://www.instagram.com/deveem.io/)                  |
+| Syntlex          | Syntlex              | Bishkek                |   ?   | Mobile dev, Front-End, Backend-End, QA TEST,             | ? | [click](http://www.syntlex.info/vacancy.php)                  |
+| TimelySoft       | TimelySoft              | Bishkek               |   ?   | Android, IOS, C#, Backend-End, Front-End           | Every-time | [click](http://timelysoft.net/ru/internship/)                  |
+| Mad Devs         | Mad Devs              | Bishkek                |   ?   | Android, IOS, Front-End, Backend-End          | ? | [click](https://maddevs.io/careers/)                  |
 | Sunrise          | Sunrise It company              | ?                |   ?   | Android, IOS, Python             | ? | [click](https://docs.google.com/forms/d/e/1FAIpQLSdN5xDlb_d0EMCJy5G_due4gflNhYUTi4MXumzK53NetiVvhw/viewform)                  |
 
 ## Contributing
