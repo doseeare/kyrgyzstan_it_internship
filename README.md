@@ -19,7 +19,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Syntlex          | Syntlex              | Bishkek                |   ?   | Mobile dev, Front-End, Backend-End, QA TEST,             | ? | [click](http://www.syntlex.info/vacancy.php)                  |
 | TimelySoft       | TimelySoft              | Bishkek               |   ?   | Android, IOS, C#, Backend-End, Front-End           | Every-time | [click](http://timelysoft.net/ru/internship/)                  |
 | Mad Devs         | Mad Devs              | Bishkek                |   ?   | Android, IOS, Front-End, Backend-End          | ? | [click](https://maddevs.io/careers/)                  |
-| Sunrise          | Sunrise It company              | ?                |   ?   | Android, IOS, Python             | ? | [click](https://docs.google.com/forms/d/e/1FAIpQLSdN5xDlb_d0EMCJy5G_due4gflNhYUTi4MXumzK53NetiVvhw/viewform)                  |
+| Sunrise          | Sunrise It company              | Bishkek              |   ?   | Android, IOS, Python             | ? | [click](https://docs.google.com/forms/d/e/1FAIpQLSdN5xDlb_d0EMCJy5G_due4gflNhYUTi4MXumzK53NetiVvhw/viewform)                  |
 
 ## Contributing
 
