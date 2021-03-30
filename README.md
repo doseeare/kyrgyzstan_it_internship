@@ -12,14 +12,14 @@ We do not have many internships here, nevertheless, students and graduates face 
 
 | Company name     | Internship          | City (or remote) | Paid? | Languages & Technologies                             | Deadline   | Link                                                         |
 | ---------------- | ------------------- | ---------------- | :---: | ---------------------------------------------------- | ---------- | ------------------------------------------------------------ |
-| Neobis      	   | Neobis Labs         | Bishkek          |   no  | All                                                  | Every-time | [click](https://neobis.kg/clubs)                             |
+| Neobis      	   | Neobis Labs         | Bishkek          |   u'll pay  | All                                                  | Every-time | [click](https://neobis.kg/clubs)                             |
 | Growave          | Growave             | Bishkek           |   no  | PHP, Front-End                                        | ?         | [click](https://www.kg.growave.io/probation)                |
 | Beeline          | Beeline  KG         | Bishkek                |   ?   | Java, Python              | ? | [click](https://beeline.kg/ru/stajirovka#bottom)                  |
 | Deveem           | Deveem Labs         | Bishkek                |   ?   | Android, IOS, UX-UI            | ? | [click](https://www.instagram.com/deveem.io/)                  |
 | Syntlex          | Syntlex              | Bishkek                |   ?   | Mobile dev, Front-End, Backend-End, QA TEST,             | ? | [click](http://www.syntlex.info/vacancy.php)                  |
 | TimelySoft       | TimelySoft              | Bishkek               |   ?   | Android, IOS, C#, Backend-End, Front-End           | Every-time | [click](http://timelysoft.net/ru/internship/)                  |
 | Mad Devs         | Mad Devs              | Bishkek                |   ?   | Android, IOS, Front-End, Backend-End          | ? | [click](https://maddevs.io/careers/)                  |
-| Sunrise          | Sunrise It company              | Bishkek              |   ?   | Android, IOS, Python             | ? | [click](https://docs.google.com/forms/d/e/1FAIpQLSdN5xDlb_d0EMCJy5G_due4gflNhYUTi4MXumzK53NetiVvhw/viewform)                  |
+| Sunrise          | Sunrise It company              | Bishkek              |   u'll pay   | Android, IOS, Python             | ? | [click](https://docs.google.com/forms/d/e/1FAIpQLSdN5xDlb_d0EMCJy5G_due4gflNhYUTi4MXumzK53NetiVvhw/viewform)                  |
 
 ## Contributing
 
