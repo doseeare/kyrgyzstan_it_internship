@@ -1,4 +1,4 @@
-# kg Kyrgyzstan IT Internships
+#kg Kyrgyzstan IT Internships
 
 > A collection of IT internships taking place in Kyrgyzstan.
 
