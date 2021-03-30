@@ -24,12 +24,10 @@ We do not have many internships here, nevertheless, students and graduates face 
 ## Contributing
 
 Feel free to contribute, I need your help :)  
-[Fill out this form](https://forms.gle/8CKj1K33m3iDAZNF6) or open a pull request.
+[msg me in telegram](https://t.me/doseeare) or open a pull request.
 
 ## Credits
 
 This list was inspired by similar lists from [Russian internships](https://github.com/MrHakimov/russian-internships) and [Summer 2021 internships](https://github.com/Pitt-CSC/Summer2021-Internships). All original idea credit goes to authors.
-
-README's structure was inspired by [awesome-made-in-kz](https://github.com/nugmanoff/awesome-made-in-kz) (don't forget to check it out too).  
 
 If it helped you with something, click on the star. Thank you.
