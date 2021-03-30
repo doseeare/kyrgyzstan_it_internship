@@ -24,7 +24,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 ## Contributing
 
 Feel free to contribute, I need your help :)  
-[msg me in telegram](https://t.me/doseeare) or open a pull request.
+[msg me in telegram](https://t.me/doseeare) or create new issue.
 
 ## Credits
 
