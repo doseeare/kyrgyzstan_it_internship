@@ -21,6 +21,7 @@ We do not have many internships here, nevertheless, students and graduates face 
 | Mad Devs         | Mad Devs              | Bishkek                |   ?   | Android, IOS, Front-End, Backend-End          | ? | [click](https://maddevs.io/careers/)                  |
 | Sunrise          | Sunrise It company              | Bishkek              |   u'll pay   | Android, IOS, Python             | ? | [click](https://docs.google.com/forms/d/e/1FAIpQLSdN5xDlb_d0EMCJy5G_due4gflNhYUTi4MXumzK53NetiVvhw/viewform)                  |
 | EFSOL         | EFSOL              | Bishkek                |   no   | Front-End         | ? | [click](https://efsol.ru/company/vacancy.html)                  |
+| Attractor Software         | Attractor Software              | Bishkek                |   no   | Android         | ? | [click](https://t.me/Attractorsoftware)                |
 
 ## Contributing
 
